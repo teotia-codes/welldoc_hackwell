@@ -1,0 +1,43 @@
+# ----------------------
+# Python environments
+# ----------------------
+.venv/
+venv/
+ENV/
+
+# ----------------------
+# Python cache & temp files
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+.ipynb_checkpoints/
+
+# ----------------------
+# Logs / outputs
+# ----------------------
+outputs/
+*.log
+
+# ----------------------
+# Data files (large/sensitive)
+# ----------------------
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.parquet
+
+# ----------------------
+# IDE / editor settings
+# ----------------------
+.vscode/
+.idea/
+
+# ----------------------
+# OS-specific
+# ----------------------
+.DS_Store
+Thumbs.db
