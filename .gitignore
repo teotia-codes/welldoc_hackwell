@@ -28,7 +28,7 @@ outputs/
 *.tsv
 *.xlsx
 *.json
-*.parquet
+
 
 # ----------------------
 # IDE / editor settings
